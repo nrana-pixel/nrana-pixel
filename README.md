@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋, I'm Nishit Rana</h1>
-<h3 align="center">A Fresher Backend Developer</h3>
+<h1 align="center">Hey, I'm Nishit 👋</h1>
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 📫 How to reach me **nrana4148@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishitrana" height="30" width="40" /></a>
-<a href="https://instagram.com/rizzler.nishit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizzler.nishit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nrana4148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nrana4148" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nrana-pixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nrana-pixel" height="30" width="40" /></a>
+<p align="center">
+  <strong>Founding Engineer @ Cognerd</strong><br>
+  Building AI products, backend systems and the infrastructure behind them.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishitrana">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:nrana4148@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/nrana-pixel">LeetCode</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrana-pixel&show_icons=true&locale=en&layout=compact" alt="nrana-pixel" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrana-pixel&show_icons=true&locale=en" alt="nrana-pixel" /></p>
+### A little about me
+
+I'm a software engineer with **1.5+ years of experience** building across backend development, AI systems and cloud infrastructure.
+
+At **Cognerd**, I take features from the first discussion through implementation, deployment and production support. I handled technical delivery single-handedly for six months and have mentored three interns.
+
+I enjoy working where application code meets the systems that keep it running — APIs, databases, background workers and cloud infrastructure.
+
+### What I work on
+
+- **Backend engineering** — APIs, authentication, background jobs and third-party integrations.
+- **AI systems** — MCP integrations, RAG, vector search and knowledge-graph workflows.
+- **Cloud infrastructure** — AWS migration, CI/CD, Linux server management and private networking.
+- **Data performance** — PostgreSQL indexing, query optimisation, cursor pagination and Redis caching.
+- **Automation** — n8n workflows and AI video-generation pipelines, from input processing to delivery.
+
+### My toolkit
+
+| | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript · JavaScript · Python · Go · SQL |
+| **Backend** | Node.js · Express · FastAPI |
+| **Frontend** | React · Next.js · HTML · CSS |
+| **Databases** | PostgreSQL · MongoDB · Redis · Qdrant |
+| **AI & automation** | MCP · RAG · n8n · Ollama |
+| **Cloud & infrastructure** | AWS · Cloudflare · Docker · Linux · Nginx · Tailscale |
+| **Developer tools** | Git · GitHub · Postman · Claude Code · Codex |
+
+---
+
+<p align="center">
+  Interested in backend engineering, AI systems or building a product together?<br>
+  <a href="mailto:nrana4148@gmail.com"><strong>Let's connect.</strong></a>
+</p>
